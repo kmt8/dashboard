@@ -131,7 +131,6 @@ table {
 .subscriber {
   height: 300px;
   overflow: scroll;
-  overflow-x: hidden;
 }
 
 .full-screen-card {

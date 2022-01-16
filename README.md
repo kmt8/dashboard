@@ -3,4 +3,4 @@
 
 ## Demo
 
-https://kmtdashboard.netlify.app/
+https://swddashboard.netlify.app/
